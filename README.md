@@ -1,6 +1,7 @@
 # Webinars:
 
 - ### [Introduction to CTFs](https://www.youtube.com/watch?v=-PvKBido90I)
+- ### [Web Hacking 101 eBook](https://github.com/CBC-MIT/CTF-Resources/blob/main/Web%20Hacking%20101%20(%20PDFDrive%20).pdf)
 
 ## Web Exploitation:
 - ### [Basics of Web CTF](https://www.youtube.com/watch?v=clcfThE2UIg)
